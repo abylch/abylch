@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abylch
 - 👀 I’m interested in breaking out of the loop
-- 🌱 I’m currently learning data science on codecademy
+- 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me ...
 

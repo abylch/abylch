@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abylch
+- 👋 Hi, I’m @bylch
 - 👀 I’m interested in breaking out of the loop
-- 🌱 I’m currently learning aws
+- 🌱 I’m currently learning aws, devops and fullstack
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me ...
 
